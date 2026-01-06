@@ -1,72 +1,4 @@
 {
-  "bar.customModules.storage.paths": [
-    "/"
-  ],
-  "theme.font.size": "0.8rem",
-  "theme.font.weight": 600,
-  "bar.layouts": {
-    "0": {
-      "left": [
-        "workspaces"
-      ],
-      "middle": [
-        "clock"
-      ],
-      "right": [
-        "volume",
-        "network",
-        "bluetooth",
-        "battery",
-        "systray",
-        "notifications"
-      ]
-    },
-    "1": {
-      "left": [
-        "dashboard",
-        "workspaces",
-        "windowtitle"
-      ],
-      "middle": [
-        "media"
-      ],
-      "right": [
-        "volume",
-        "clock",
-        "notifications"
-      ]
-    },
-    "2": {
-      "left": [
-        "dashboard",
-        "workspaces",
-        "windowtitle"
-      ],
-      "middle": [
-        "media"
-      ],
-      "right": [
-        "volume",
-        "clock",
-        "notifications"
-      ]
-    }
-  },
-  "bar.autoHide": "never",
-  "theme.bar.enableShadow": false,
-  "theme.bar.buttons.workspaces.enableBorder": false,
-  "bar.workspaces.monitorSpecific": true,
-  "bar.workspaces.show_icons": false,
-  "bar.workspaces.show_numbered": true,
-  "bar.workspaces.workspaceMask": false,
-  "bar.workspaces.showWsIcons": false,
-  "menus.media.displayTime": false,
-  "menus.volume.raiseMaximumVolume": true,
-  "menus.clock.time.military": true,
-  "menus.clock.weather.unit": "imperial",
-  "menus.power.lowBatteryNotification": true,
-  "menus.power.lowBatteryThreshold": 20,
-  "wallpaper.image": "/home/efjot/.config/wallpaper.jpg",
   "theme.bar.menus.menu.notifications.scrollbar.color": "#a7c080",
   "theme.bar.menus.menu.notifications.pager.label": "#7a8478",
   "theme.bar.menus.menu.notifications.pager.button": "#a7c080",
@@ -440,7 +372,6 @@
   "theme.bar.buttons.modules.worldclock.icon_background": "#d699b6",
   "theme.bar.buttons.modules.worldclock.icon": "#dbbc7f",
   "theme.bar.buttons.modules.worldclock.border": "#dbbc7f",
-  "theme.bar.transparent": false,
   "theme.bar.buttons.notifications.hover": "#504945",
   "theme.bar.buttons.clock.hover": "#504945",
   "theme.bar.buttons.battery.hover": "#504945",
@@ -463,13 +394,5 @@
   "theme.bar.buttons.modules.cpuTemp.icon": "#181824",
   "theme.bar.buttons.modules.cpuTemp.text": "#fab387",
   "theme.bar.buttons.modules.cpuTemp.border": "#fab387",
-  "theme.osd.border.color": "#8ff0a4",
-  "theme.bar.location": "top",
-  "theme.bar.buttons.enableBorders": false,
-  "bar.launcher.autoDetectIcon": false,
-  "theme.bar.buttons.volume.enableBorder": false,
-  "bar.network.showWifiInfo": true,
-  "bar.notifications.show_total": false,
-  "bar.notifications.hideCountWhenZero": false,
-  "theme.notification.enableShadow": false
+  "theme.osd.border.color": "#8ff0a4"
 }
